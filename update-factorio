@@ -1,0 +1,3 @@
+wget https://factorio.com/get-download/latest/headless/linux64
+tar xvf linux64
+rm linux64
